@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning python language and plan to study data structures and algos later
