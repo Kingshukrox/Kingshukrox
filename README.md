@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning web development and plan to study data structures and algos later
+- 🌱 I’m currently learning web development and plan to become a frontend developer
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
